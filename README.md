@@ -1,12 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Python<br>🌱 I’m currently learning AI Engineering
-🔭 I’m currently working on
-👯 I’m looking to collaborate on
-🤝 I’m looking for help with
-🌱 I’m currently learning
-💬 Ask me about
+🔭 I’m currently working on Python<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning AI Engineering<br>
+💬 Ask me about<br>
 ⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jawad.mouafaq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jawadalarman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jawad-alarman-9a51bb288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JawadAlarman) 
